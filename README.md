@@ -39,8 +39,8 @@ THEN I find a concise, descriptive title
 You are required to submit the following for review:
 
 * The URL of the deployed application.
-
+https://christanfox.github.io/Week-1---Horiseon/
 * The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project.
-
+https://github.com/ChristanFox/Week-1---Horiseon
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
